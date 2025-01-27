@@ -5,5 +5,5 @@ def subtraction_api(a,b):
  outout: sub
 
  '''
-  sub = a - b
-  return sub
+ sub = a - b
+ return sub
